@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Início",
+    "alt": "Ícone de uma casa",
+    "path": "/assets/icones/home.png"
+  },
+  {
+    "nome": "Mais curtidas",
+    "alt": "Ícone de uma mão fazendo o sinal de positivo com o polegar",
+    "path": "/assets/icones/mais-curtidas.png"
+  },
+  {
+    "nome": "Mais vistas",
+    "alt": "Ícone de um olho",
+    "path": "/assets/icones/mais-vistas.png"
+  },
+  {
+    "nome": "Novas",
+    "alt": "Ícone de uma estrela feita com traços",
+    "path": "/assets/icones/novas.png"
+  },
+  {
+    "nome": "Surpreenda-me",
+    "alt": "Ícone de uma lâmpada",
+    "path": "/assets/icones/surpreenda-me.png"
+  }
+]
